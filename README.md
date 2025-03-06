@@ -1,4 +1,4 @@
-# Multimodal Code-Switching Medical Query Summarization
+# Multimodal Code-Mixed Medical Query Summarization
 
 ## 📌 **Project Overview**
 
