@@ -1,5 +1,16 @@
 # Multimodal Code-Mixed Medical Query Summarization
 
+## 🧑‍🤝‍🧑 **Project Mentor**
+
+- **Dr. G Bharathi Mohan**
+
+## 🧑‍🤝‍🧑 **Our Core Team**
+
+- **Adithiyan PV - CH.EN.U4AIE22003**
+- **Jeevan Sendur G - CH.EN.U4AIE22020**
+- **Rahul K - CH.EN.U4AIE22044**
+
+
 ## 📌 **Project Overview**
 
 In the healthcare domain, effective communication between patients and healthcare providers is crucial, especially when describing complex medical conditions. Our project, **Multimodal Code-Switching Medical Query Summarization**, aims to address this challenge by developing a lightweight model capable of summarizing codemixed Hindi-English medical queries using both textual and visual data.
@@ -54,15 +65,6 @@ The **MMCQS dataset** used in this project is publicly available on Hugging Face
 - Vision Transformer (ViT)
 - DistilBART
 
-## 🧑‍🤝‍🧑 **Project Mentor**
-
-- **Dr. G Bharathi Mohan**
-
-## 🧑‍🤝‍🧑 **Our Core Team**
-
-- **Adithiyan P.V. - CH.EN.U4AIE22003**
-- **Jeevan Sendur G - CH.EN.U4AIE22020**
-- **Rahul K - CH.EN.U4AIE22044**
 
 
 
