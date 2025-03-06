@@ -35,6 +35,8 @@ We leverage a **Vision Transformer (ViT)** to process medical images and **Disti
    - **Vision Transformer (ViT):** Extracts visual features from medical images.
    - **DistilBART:** Generates accurate and concise medical summaries from multimodal inputs.
 
+   Click here to download the Trained DistilBART model: https://drive.google.com/file/d/12yTMaYV3Af5Jn5PMY4xevR6PVBWKV9ew/view?usp=sharing
+
 3. **Training & Evaluation:**
    - Fine-tuned on the **MMCQS** dataset.
    - Evaluated using standard NLP metrics (ROUGE, BLEU, BERTScore).
