@@ -54,11 +54,17 @@ The **MMCQS dataset** used in this project is publicly available on Hugging Face
 - Vision Transformer (ViT)
 - DistilBART
 
-## 🧑‍🤝‍🧑 **Team Members**
+## 🧑‍🤝‍🧑 **Project Mentor**
 
-- **Adithiyan P.V.**
-- **Jeevan Sendur G**
-- **Rahul K**
+- **Dr. G Bharathi Mohan**
+
+- 
+## 🧑‍🤝‍🧑 **Our Core Team**
+
+- **Adithiyan P.V. - CH.EN.U4AIE22003**
+- **Jeevan Sendur G - CH.EN.U4AIE22020**
+- **Rahul K - CH.EN.U4AIE22044**
+
 
 
 ## 🚀 **Future Work**
@@ -74,4 +80,4 @@ The **MMCQS dataset** used in this project is publicly available on Hugging Face
 
 ---
 
-> **"Bridging the gap between patients and healthcare through advanced multimodal summarization."**
+> **Bridging the gap between patients and healthcare through advanced multimodal summarization.**
