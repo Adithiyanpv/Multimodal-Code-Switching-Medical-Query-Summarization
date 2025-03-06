@@ -58,7 +58,6 @@ The **MMCQS dataset** used in this project is publicly available on Hugging Face
 
 - **Dr. G Bharathi Mohan**
 
-- 
 ## 🧑‍🤝‍🧑 **Our Core Team**
 
 - **Adithiyan P.V. - CH.EN.U4AIE22003**
