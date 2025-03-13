@@ -45,11 +45,15 @@ We leverage a **Vision Transformer (ViT)** to process medical images and **Disti
 
 Our model achieved the following results on the extended MMCQS dataset:
 
-- **ROUGE-1:** 0.6009
-- **ROUGE-2:** 0.3827
-- **ROUGE-L:** 0.5169
-- **BLEU-4:** 0.3620
-- **BERTScore (F1):** 0.9192
+- ROUGE-1: 60.09
+- ROUGE-2: 38.27
+- ROUGE-L: 51.69
+- BLEU-1: 57.53
+- BLEU-2: 46.65
+- BLEU-3: 40.38
+- BLEU-4: 36.20
+- BERTScore: 0.919
+- Readability: 69.85
 
 These scores surpass the existing **MedSumm** model, demonstrating the effectiveness of our lightweight approach.
 
