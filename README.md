@@ -80,6 +80,9 @@ The **MMCQS dataset** used in this project is publicly available on Hugging Face
 
 1. Arkadeep Acharya et al., "MedSumm: Multimodal Medical Query Summarization," *ECIR 2024*.
 2. Vaswani et al., "Attention Is All You Need," *NeurIPS 2017*.
+3. A. B. Abacha and D. Demner-Fushman. "On the summarization of consumer health questions." Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 2228–2234, 2019.
+4. A. Das and B. Gambäck. "Identifying languages at the word level in code-mixed Indian social media text." arXiv preprint arXiv:2302.13971, 2014.
+5. J.-B. Delbrouck, C. Zhang, and D. Rubin. "QIAI at MEDIQA 2021: Multimodal radiology report summarization." Proceedings of the 20th Workshop on Biomedical Language Processing, pp. 285–290, 2021.
 
 ---
 
