@@ -10,6 +10,11 @@
 - **Jeevan Sendur G - CH.EN.U4AIE22020**
 - **Rahul K - CH.EN.U4AIE22044**
 
+# 📄 Research Paper & Documents  
+
+🔗 **Access our Paper write-up and other documents here:**  
+[📂 Google Drive Link](https://drive.google.com/drive/folders/14vTr7KR8F_db55VtN203Kxfyy1slUKw2?usp=sharing)  
+
 
 ## 📌 **Project Overview**
 
